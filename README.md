@@ -51,7 +51,5 @@ plt.imshow(test_images[56])  # Change index here
 
 After training for 3 epochs, the model achieves an accuracy of around 87-90% on the test dataset.
 
-## License
 
-This project is licensed under the MIT License.
 
