@@ -29,7 +29,7 @@ The model is trained using the Adam optimizer and sparse categorical crossentrop
 To train the model, run:
 
 ```sh
-python train.py
+python fashion_prediction.py
 ```
 
 After training, the model evaluates its performance on the test dataset and prints the accuracy.
